@@ -19,3 +19,5 @@ forge 'https://forge.puppet.com'
 mod 'nginx',
   git: 'https://github.com/dgoldsmith/puppet_lab_nginx.git',
   ref: 'main'
+
+#https://github.com/dgoldsmith/puppet_lab_nginx.git
